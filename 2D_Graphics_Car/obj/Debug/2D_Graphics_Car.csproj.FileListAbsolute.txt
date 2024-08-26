@@ -18,3 +18,4 @@ C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\2D_Graphics_Car\obj\Deb
 C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\2D_Graphics_Car\obj\Debug\2D_Graphics_Car.csproj.GenerateResource.Cache
 C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\2D_Graphics_Car\obj\Debug\2D_Graphics_Car.exe
 C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\2D_Graphics_Car\obj\Debug\2D_Graphics_Car.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\2D_Graphics_Car\obj\Debug\2D_Graphics_Car.csprojResolveAssemblyReference.cache

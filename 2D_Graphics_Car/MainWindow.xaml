@@ -53,17 +53,17 @@
                 <DropShadowEffect BlurRadius="15" ShadowDepth="15" Color="#FF7C7C7C"/>
             </Image.Effect>
         </Image>
-        <Image x:Name="CarEnemy1" HorizontalAlignment="Left" Height="175" Margin="145,-280,0,0" VerticalAlignment="Top" Width="87" Source="Resources\YellowCar.png" RenderTransformOrigin="0.467,0.375">
+        <Image x:Name="CarEnemy1" HorizontalAlignment="Left" Height="175" Margin="145,-262,0,0" VerticalAlignment="Top" Width="87" Source="Resources\YellowCar.png" RenderTransformOrigin="0.467,0.375">
             <Image.Effect>
                 <DropShadowEffect BlurRadius="15" ShadowDepth="15" Color="#FF7C7C7C"/>
             </Image.Effect>
         </Image>
-        <Image x:Name="CarEnemy2" HorizontalAlignment="Left" Height="175" Margin="145,355,0,0" VerticalAlignment="Top" Width="87" Source="Resources\Polize Car.png" RenderTransformOrigin="0.467,0.375">
+        <Image x:Name="CarEnemy2" HorizontalAlignment="Left" Height="175" Margin="313,-52,0,0" VerticalAlignment="Top" Width="87" Source="Resources\Polize Car.png" RenderTransformOrigin="0.467,0.375">
             <Image.Effect>
                 <DropShadowEffect BlurRadius="15" ShadowDepth="15" Color="#FF7C7C7C"/>
             </Image.Effect>
         </Image>
-        <Image x:Name="CarEnemy3" HorizontalAlignment="Left" Height="175" Margin="313,-205,0,0" VerticalAlignment="Top" Width="87" Source="Resources/Bugatti.png" RenderTransformOrigin="0.467,0.375">
+        <Image x:Name="CarEnemy3" HorizontalAlignment="Left" Height="175" Margin="145,468,0,0" VerticalAlignment="Top" Width="87" Source="Resources/Bugatti.png" RenderTransformOrigin="0.467,0.375">
             <Image.Effect>
                 <DropShadowEffect BlurRadius="15" ShadowDepth="15" Color="#FF7C7C7C"/>
             </Image.Effect>
@@ -74,7 +74,7 @@
             </Image.Effect>
         </Image>
         <Image x:Name="splashEnemy" HorizontalAlignment="Left" Height="115" VerticalAlignment="Top" Width="130" Source="Resources\FireSplash.png" Margin="800,495,0,0"/>
-        <Image x:Name="CarEnemy4" HorizontalAlignment="Left" Height="175" Margin="473,161,0,0" VerticalAlignment="Top" Width="87" Source="Resources/Taxi.png" RenderTransformOrigin="0.467,0.375">
+        <Image x:Name="CarEnemy4" HorizontalAlignment="Left" Height="175" Margin="473,239,0,0" VerticalAlignment="Top" Width="87" Source="Resources/Taxi.png" RenderTransformOrigin="0.467,0.375">
             <Image.Effect>
                 <DropShadowEffect BlurRadius="15" ShadowDepth="15" Color="#FF7C7C7C"/>
             </Image.Effect>
@@ -145,7 +145,7 @@
             </Image.Effect>
         </Image>
         <Image x:Name="splash" HorizontalAlignment="Left" Height="105" VerticalAlignment="Top" Width="110" Source="Resources\splash.png" Margin="800,285,0,0"/>
-        <Expander x:Name="expanderInfo" Header="Info" HorizontalAlignment="Left" Margin="567,13,0,0" VerticalAlignment="Top" Height="127" Width="136" RenderTransformOrigin="0.5,1" FontSize="18" Foreground="#FF10F784" TextOptions.TextHintingMode="Animated" IsExpanded="True" FlowDirection="RightToLeft" FontWeight="SemiBold">
+        <Expander x:Name="expanderInfo" Header="Info" HorizontalAlignment="Left" Margin="567,13,0,0" VerticalAlignment="Top" Height="113" Width="136" RenderTransformOrigin="0.5,1" FontSize="18" Foreground="#FF10F784" TextOptions.TextHintingMode="Animated" IsExpanded="True" FlowDirection="RightToLeft" FontWeight="SemiBold">
             <Expander.Effect>
                 <DropShadowEffect BlurRadius="4" ShadowDepth="3"/>
             </Expander.Effect>
@@ -157,7 +157,7 @@
                     <TranslateTransform/>
                 </TransformGroup>
             </Expander.RenderTransform>
-            <Label x:Name="labelInfoExit" Content="'R' repair car&#xA;'P' for Pause&#xA; |Exit Game|" HorizontalAlignment="Left" Height="86" Width="132" FontSize="20" Background="{x:Null}" Foreground="#FFDCFF00" IsHitTestVisible="True" Padding="2" RenderTransformOrigin="0.505,0.624" MouseDown="labelInfoExit_MouseDown" Margin="-4,0,-12,0" FlowDirection="LeftToRight">
+            <Label x:Name="labelInfoExit" Content="'R' repair car&#xA;'P' for Pause&#xA;'E' for Exit " HorizontalAlignment="Left" Height="92" Width="132" FontSize="20" Background="{x:Null}" Foreground="#FFDCFF00" IsHitTestVisible="True" Padding="2" RenderTransformOrigin="0.505,0.624" MouseDown="labelInfoExit_MouseDown" Margin="-4,0,0,0" FlowDirection="LeftToRight">
                 <Label.Effect>
                     <DropShadowEffect Color="#FF787878" BlurRadius="10" ShadowDepth="4" RenderingBias="Quality"/>
                 </Label.Effect>

@@ -531,6 +531,7 @@ namespace GraphicsCar
             timerUserCar.Stop();
             timerAllObjects.Stop();
             pauseCheck = true;
+            expanderInfo.IsExpanded = true;
             timerUserCarDriving_Media.Stop();
             userCarDrivingMedia.LoadedBehavior = MediaState.Pause;
          }
