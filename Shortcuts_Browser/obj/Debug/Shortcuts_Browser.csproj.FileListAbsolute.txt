@@ -1,0 +1,14 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\bin\Debug\Shortcuts_Browser.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\bin\Debug\Shortcuts_Browser.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\bin\Debug\Shortcuts_Browser.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\MainWindow.g.cs
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\App.g.cs
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser_MarkupCompile.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser_MarkupCompile.lref
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\MainWindow.baml
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser.g.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser.Properties.Resources.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser.csproj.GenerateResource.Cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Apps\Shortcuts_Browser\obj\Debug\Shortcuts_Browser.csprojResolveAssemblyReference.cache
